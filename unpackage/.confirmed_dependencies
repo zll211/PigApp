@@ -1,0 +1,128 @@
+{
+	"index.html": {
+		"resources": [
+			"js/mui.min.js",
+			"css/mui.min.css",
+			"js/update.js"
+		],
+		"refer": [
+			"guide.html"
+		]
+	},
+	"guide.html": {
+		"resources": [
+			"images/lb1.jpg",
+			"images/lb2.jpg",
+			"login.html",
+			"js/mui.min.js",
+			"css/mui.min.css",
+			"images/guide03.jpg",
+			"images/guide02.jpg",
+			"images/guide01.jpg"
+		],
+		"refer": [
+			"login.html"
+		]
+	},
+	"login.html": {
+		"resources": [
+			"main.html",
+			"css/mui.min.css",
+			"images/admin.png",
+			"images/password.png",
+			"images/admin1.png"
+		],
+		"refer": [
+			"main.html"
+		]
+	},
+	"main.html": {
+		"resources": [
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css",
+			"login.html",
+			"images/home.png",
+			"home.html",
+			"js/update.js"
+		],
+		"refer": [
+			"login.html",
+			"home.html",
+			"examples/tableviews.html",
+			"examples/card.html",
+			"examples/tab-with-viewpagerindicator.html",
+			"pro.html",
+			"mine.html",
+			"more.html"
+		]
+	},
+	"examples/card.html": {
+		"resources": [
+			"images/cbd.jpg",
+			"images/yuantiao.jpg",
+			"images/logo.png"
+		]
+	},
+	"home.html": {
+		"resources": [
+			"images/ico3@2x.png",
+			"images/banner2.jpg",
+			"images/banner1.jpg",
+			"images/ico1@2x.png",
+			"images/banner3.jpg",
+			"images/ico4@2x.png",
+			"images/ico2@2x.png",
+			"images/ico5@2x.png",
+			"images/ico8@2x.png",
+			"images/ico6@2x.png",
+			"images/ico7@2x.png",
+			"fonts/mui.ttf"
+		]
+	},
+	"pro.html": {
+		"resources": [
+			"js/mui.min.js",
+			"css/mui.min.css"
+		]
+	},
+	"mine.html": {
+		"resources": [
+			"images/money_bg_02.png",
+			"css/mui.min.css",
+			"images/icon11.png",
+			"images/icon12.png",
+			"fonts/mui.ttf",
+			"images/ico12.png",
+			"images/ico14.png",
+			"images/ico13.png",
+			"images/ico11.png",
+			"images/1.png",
+			"images/ico16.png",
+			"images/ico15.png",
+			"images/ico18.png",
+			"images/ico17.png"
+		]
+	},
+	"more.html": {
+		"resources": [
+			"images/ico16.png",
+			"images/ico12.png",
+			"images/ico15.png",
+			"fonts/mui.ttf",
+			"images/ico14.png",
+			"images/ico13.png",
+			"css/mui.min.css",
+			"images/ico18.png",
+			"images/ico11.png",
+			"images/ico17.png",
+			"images/icon006.png",
+			"images/icon001.png",
+			"images/icon005.png",
+			"images/icon007.png",
+			"images/icon003.png",
+			"images/icon004.png",
+			"images/icon002.png"
+		]
+	}
+}
